@@ -2,7 +2,7 @@
   "name": "test.com.taptap.tds.dlc",
   "displayName": "TapTap Download Content",
   "description": "TapTap Develop Service",
-  "version": "0.0.16",
+  "version": "0.0.17",
   "unity": "2018.3",
   "license": "MIT",
   "dependencies": {
