@@ -2,7 +2,7 @@
   "name": "test.com.taptap.tds.payment",
   "displayName": "TapTap Payment",
   "description": "TapTap Develop Service",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "unity": "2018.3",
   "license": "MIT",
   "dependencies": {
