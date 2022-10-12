@@ -2,7 +2,7 @@
   "name": "test.com.taptap.tds.tapdb",
   "displayName": "TapTap TapDB",
   "description": "TapTap Develop Service",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "unity": "2018.3",
   "license": "MIT",
   "dependencies": {
