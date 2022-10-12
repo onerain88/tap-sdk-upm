@@ -1,0 +1,11 @@
+{
+  "name": "test.com.taptap.tds.dlc",
+  "displayName": "TapTap Download Content",
+  "description": "TapTap Develop Service",
+  "version": "0.0.16",
+  "unity": "2018.3",
+  "license": "MIT",
+  "dependencies": {
+    "com.taptap.tds.common": "https://github.com/TapTap/TapCommon-Unity.git#3.15.1"
+  }
+}
