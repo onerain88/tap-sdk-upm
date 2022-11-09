@@ -1,0 +1,11 @@
+{
+  "name": "com.taptap.tds.achievement",
+  "displayName": "TapTap Achievement",
+  "description": "TapTap Develop Service",
+  "version": "0.2.3",
+  "unity": "2019.4",
+  "license": "MIT",
+  "dependencies": {
+    "com.taptap.tds.bootstrap": "https://github.com/onerain88/tap-sdk-upm.git#bootstrap-0.2.3"
+  }
+}
